@@ -1,0 +1,2 @@
+Classification problem using a cost function based on John Kelly's doubling rate of wealth.  The change in doubling rate of wealth can be interpreted as the mutual information between the distribution of event outcomes (y) and
+our side information (X).  This provides an intuitive measure of "learning" in bits. This method comes from the course 'New Opportunities in Big Data' taught by Daniel Egger at Duke University.  The data comes from Andrew Ng's Machine Learning course on Coursera.
